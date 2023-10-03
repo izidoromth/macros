@@ -13,6 +13,16 @@ ___
 
 I began this initiative after my own journey of losing fat and getting in a more healthy lifestyle. It is aligned with the IIFYM diet, a sort of diet where you can actually eat anything you want, without extreme low-carb strategies or food restriction that makes you hate dieting. Furthermore, this projects let me demonstrate my skills in system design, programming and technology.
 
+### :hourglass: Progress
+
+
+| Status | Description |
+| :------: | ----- |
+| :rocket: | User microservice kicked off. Check it [here](https://github.com/izidoromth/macros-user-service) |
+|  | Nutrition microservice to be started |
+|  | API Gateway to be started |
+|  | Front-End to be started |
+
 ### :scroll: Credits
 
 Matheus Izidoro de Almeida
