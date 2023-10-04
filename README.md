@@ -19,8 +19,8 @@ I began this initiative after my own journey of losing fat and getting in a more
 | Status | Description |
 | :------: | ----- |
 | :rocket: | User microservice kicked off. Check it [here](https://github.com/izidoromth/macros-user-service/tree/develop) |
+| :rocket: | API Gateway kicked off. Check it [here](https://github.com/izidoromth/macros-api-gateway) |
 |  | Nutrition microservice to be started |
-|  | API Gateway to be started |
 |  | Front-End to be started |
 
 ### :scroll: Credits
