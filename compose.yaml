@@ -1,0 +1,22 @@
+services:
+  users:
+    build:
+      context: ../macros-user-service/
+      dockerfile: ../macros-user-service/macros-user-service/Dockerfile
+    ports:
+      - "5551:80"
+
+  redis:
+    image: "redis/redis-stack-server:latest"
+    ports:
+      - "5552:6379" 
+
+  nutrition:
+    build: ../macros-nutrition-service/
+    ports:
+      - "5553:3000"
+
+  gateway:
+    build: ../macros-api-gateway/
+    ports:
+      - "3000:3000"
